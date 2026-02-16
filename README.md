@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing a real-world–style ecommerce dataset containing **10,000+ transactions** from 2018–2019.  
+This project focuses on analyzing a real-world–style ecommerce dataset containing **50,000+ transactions** from 2018–2019.  
 The objective is to clean raw data, build a structured database, and perform analytical SQL queries to derive insights that help business decision-making.
 
 This project demonstrates:
